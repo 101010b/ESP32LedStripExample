@@ -1,7 +1,7 @@
 #ifndef __PARAMETRIC_H__
 #define __PARAMETRIC_H__
 
-#include "MultiServiceIO.h"
+#include "MultiServiceIO/MultiServiceIO.h"
 
 typedef struct intparam_s {
   I32Var_t val;

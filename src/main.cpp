@@ -17,7 +17,7 @@
 #include <esp32-hal-timer.h>
 
 #include "config.h"
-#include "MultiServiceIO.h"
+#include "MultiServiceIO/MultiServiceIO.h"
 #include "main.h"
 #include "ledctrl.h"
 #include "effect.h"
