@@ -1,4 +1,4 @@
-#APA102C (or SK9822) LED Strip driver Example
+# ESP32 APA102C (or SK9822) LED Strip driver Example
 
 Features:
 - Bluetooth LE Interface 
@@ -13,6 +13,8 @@ Hardware:
 - ESP32-01 - ESP32 Module in the ESP-01 Form Factor 
 - Logic-Level-Shifter to 5V
 - SK9822 based LED Strip (e.g. 144 or 300 LEDs)
+
+Software Environmentto compile: Platform IO https://platformio.org/?utm_source=platformio&utm_medium=piohome
 
 Hardware Links:
 - ESP32-01: https://hackaday.io/project/171370-esp32-01
