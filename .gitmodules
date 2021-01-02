@@ -1,0 +1,3 @@
+[submodule "src/MultiServiceIO"]
+	path = src/MultiServiceIO
+	url = https://github.com/101010b/ESP32MultiServiceIO.git
