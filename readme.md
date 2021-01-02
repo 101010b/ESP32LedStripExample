@@ -1,4 +1,4 @@
-APA102C (or SK9822) LED Strip driver Example
+#APA102C (or SK9822) LED Strip driver Example
 
 Features:
 - Bluetooth LE Interface 
@@ -9,9 +9,13 @@ Features:
 	A Python script to read the MQTT data and create the correspodning OpenHAB2 things/items/sitemap files to access it.
 - Current configuration is also stored in a local file in the SPIFFS
 
-Hardware
-- ESP32-01 - ESP32 Module in the ESP-01 Form Factor
+Hardware:
+- ESP32-01 - ESP32 Module in the ESP-01 Form Factor 
 - Logic-Level-Shifter to 5V
 - SK9822 based LED Strip (e.g. 144 or 300 LEDs)
+
+Hardware Links:
+- ESP32-01: https://hackaday.io/project/171370-esp32-01
+- Level Shifter and LED Strip Interface: https://hackaday.io/project/176648-apa102sk9822-led-driver-via-esp32-01
 
 Linked Sources: https://github.com/101010b/ESP32MultiServiceIO
